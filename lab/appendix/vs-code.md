@@ -56,7 +56,11 @@ Menus of extensions on a side of the editor.
 
 ## `Primary Sidebar`
 
-Panels and views on a side of the editor.
+Views on a side of the editor.
+
+Click icons in the [`Activity Bar`](#activity-bar) to switch between views.
+
+- [docs](https://code.visualstudio.com/docs/configure/custom-layout#_primary-side-bar)
 
 ### Open the `Primary Sidebar`
 
