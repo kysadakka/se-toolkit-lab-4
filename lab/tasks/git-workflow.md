@@ -16,6 +16,7 @@ Here's this workflow in the context of repos:
 Outline:
 
 - [Create a `Lab Task` issue](#create-a-lab-task-issue)
+- [Switch to the `main` branch](#switch-to-the-main-branch)
 - [Create a branch](#create-a-branch)
   - [Create a branch using `GitHub`](#create-a-branch-using-github)
   - [Create a branch using the `Terminal`](#create-a-branch-using-the-terminal)
@@ -63,6 +64,15 @@ Outline:
 > What you see when creating an issue is described using an [issue form](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms).
 >
 > There is an issue form in [`.github/ISSUE_TEMPLATE/01-task.yml`](../../.github/ISSUE_TEMPLATE/01-task.yml).
+
+## Switch to the `main` branch
+
+1. Go to `VS Code`.
+2. [Run using the `Terminal`](../appendix/vs-code.md#run-a-command-using-the-terminal):
+
+   ```terminal
+   git switch main
+   ```
 
 ## Create a branch
 
