@@ -1,6 +1,6 @@
 # Lab setup
 
-- [1. Steps](#1-steps)
+- [1. Required steps](#1-required-steps)
   - [1.1. Find a partner](#11-find-a-partner)
   - [1.2. Start creating a VM](#12-start-creating-a-vm)
   - [1.3. Set up your fork](#13-set-up-your-fork)
@@ -41,7 +41,7 @@
   - [2.5. Create a label for tasks](#25-create-a-label-for-tasks)
   - [2.6. View `README.md` in `VS Code`](#26-view-readmemd-in-vs-code)
 
-## 1. Steps
+## 1. Required steps
 
 ### 1.1. Find a partner
 
